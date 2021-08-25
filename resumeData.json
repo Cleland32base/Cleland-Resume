@@ -1,0 +1,136 @@
+{
+  "main": {
+    "name": "Christopher Cleland",
+    "occupation": "Test Engineering Technician at Wells Vehicle Electronics ",
+    "description": "Test  Engineer Tech. by Day | Full Stack React Developer & Freelancer by Night",
+    "image": "IG_Cleland.png",
+    "bio": "My name is Chris, I'm an aspiring Full Stack ReactJS Developer. Currently working at Wells Vehicle Electronics as a Test Engineer Technician. Hobbies that I enjoy include 3D Archery, Baseball, Hunting, and Golf. ",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "chrisrcleland@gmail.com",
+    "phone": "(920) 251-8403",
+    "address": {
+      "street": "537 Farwell Ave",
+      "city": "Fond du Lac",
+      "state": "WI",
+      "zip": "54935"
+    },
+    "website": "",
+    "resumedownload":"https://drive.google.com/file/d/1cLfThIxxoyZ-xi2kiyEf8TC0bw4FKDem/view?usp=sharing",
+    "social": [
+
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/nwlite/in/christopher-cleland-3a3127118/",
+        "className": "fa fa-linkedin"
+      },
+
+      {
+        "name": "github",
+        "url": "http://github.com/Cleland32base",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are some of my skills and I am  eager to learn more !!",
+    "education": [
+      {
+        "school": "Lakeland University",
+        "degree": "B.S. Computer Science",
+        "graduated": "Sept 2018 - Aug 2021 | GPA 3.94",
+        "description": "Studied Various emphasis including, computer science, cybersecurity, data analytics, and software design."
+      },
+
+      {
+        "school": "Moraine Park Technical College",
+        "degree": "A.A.S Mechatronics",
+        "graduated": "Aug 2013 - Nov 2015 | High Honors",
+        "description": "Studied theories and applications in mechanical, electrical, and automated systems through motor control, fluid power, mechanical drives, robotics, and programmable logic controllers"
+      }
+    ],
+    "work": [
+      {
+        "company": "Wells Vehicle Electronics",
+        "title": "Test Engineering Technician",
+        "years": "Jan 2011 - Present",
+        "description": "Held various positions, Operator, Automation Intern, Line Technician, and Test Engineering Tech."
+      },
+      {
+        "company": "Mercury Marine",
+        "title": "Supplemental Technician",
+        "years": "Jun 2010 - Jan 2011",
+        "description": "Operate Gleason Generator Machine, perform hourly quality checks along with cutter and tool changes."
+      }
+
+    ],
+    "skills": [
+      {
+        "name": "Programming",
+        "level": "85%"
+      },
+      {
+        "name": "Manufacturing Technology",
+        "level": "85%"
+      },
+      {
+        "name": "Automation",
+        "level": "95%"
+      },
+      {
+        "name": "Design/Development",
+        "level": "35%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "65%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },      
+      {
+        "name": "LabView",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": ""
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": ""
+      },
+      {
+        "title": "MERN Stack Signal Clone",
+        "category": "SignalClone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "Signal-Clone.png",
+        "url": ""
+      },
+      {
+        "title": "Slack Clone",
+        "category": "Slack Clone built with ReactJS",
+        "image": "Slack-Clone.png",
+        "url": ""
+      }
+      
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Always experiment, test, try, fail, and learn continuously, secondly don't do things just because they were always done that way, bring your experiences and expertise with you and help the team make the best decisions.",
+        "user": ""
+      }
+
+    ]
+  }
+}

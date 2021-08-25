@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Cleland-Resume/static/css/main.5facb584.chunk.css",
+    "main.js": "/Cleland-Resume/static/js/main.e9e4f1a5.chunk.js",
+    "main.js.map": "/Cleland-Resume/static/js/main.e9e4f1a5.chunk.js.map",
+    "runtime-main.js": "/Cleland-Resume/static/js/runtime-main.165171be.js",
+    "runtime-main.js.map": "/Cleland-Resume/static/js/runtime-main.165171be.js.map",
+    "static/js/2.3ef2d018.chunk.js": "/Cleland-Resume/static/js/2.3ef2d018.chunk.js",
+    "static/js/2.3ef2d018.chunk.js.map": "/Cleland-Resume/static/js/2.3ef2d018.chunk.js.map",
+    "index.html": "/Cleland-Resume/index.html",
+    "precache-manifest.f511127fed7dfc69b91384caa53ceb50.js": "/Cleland-Resume/precache-manifest.f511127fed7dfc69b91384caa53ceb50.js",
+    "service-worker.js": "/Cleland-Resume/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/Cleland-Resume/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.3ef2d018.chunk.js.LICENSE.txt": "/Cleland-Resume/static/js/2.3ef2d018.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.165171be.js",
+    "static/js/2.3ef2d018.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.e9e4f1a5.chunk.js"
+  ]
+}
